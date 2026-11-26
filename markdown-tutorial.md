@@ -23,7 +23,7 @@ print(name)
  Link : [FADS Exercise 05](https://github.com/isa-ulisboa/greends-fads-exercises/blob/main/fads_ex_05_markdown.md)
 
 
-[Logo do ISA](./logoISA.png)
+[Logo do ISA](./LogoISA.png)
 
 #### **TABLE 01**
 
